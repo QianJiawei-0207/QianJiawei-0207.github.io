@@ -94,9 +94,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/QianJiawei-0207
-  - icon: csdn
-    icon_pack: fab
-    link: https://blog.csdn.net/qq_41924893?spm=1000.2115.3001.5343
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
