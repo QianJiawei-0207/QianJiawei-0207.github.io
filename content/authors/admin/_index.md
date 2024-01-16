@@ -88,9 +88,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: square-envelope
-    icon_pack: fas
-    link: 924252553@qq.com
+  # - icon: square-envelope
+  #   icon_pack: fas
+  #   link: 924252553@qq.com
   - icon: github
     icon_pack: fab
     link: https://github.com/QianJiawei-0207
