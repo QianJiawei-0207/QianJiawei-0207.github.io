@@ -58,10 +58,10 @@ skills:
         percent: 93
         icon: chart-line
         icon_pack: fas
-      - name: Java
+      - name: SQL
         description: ''
         percent: 90
-        icon: Java
+        icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
