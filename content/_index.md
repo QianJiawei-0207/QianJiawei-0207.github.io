@@ -241,10 +241,10 @@ sections:
       phone: 150 0313 1668
       # appointment_url: 'https://calendly.com'
       address:
-        street: 河北省 唐山市 曹妃甸区 渤海大道21号
+        street: 河北省 唐山市 曹妃甸 新城渤海大道21号
         # city: Stanford
         # region: CA
-        # postcode: '94305'
+        postcode: '063210'
         country: 中国
         country_code: CHN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
